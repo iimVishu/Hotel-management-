@@ -4,7 +4,7 @@ This is a simple hotel management system implemented in Python. It allows users 
 Features
 Customer Data Entry: Users can input customer details such as name, address, check-in date, and check-out date.
 Room Rent Calculation: Calculates room rent based on the type of room chosen and the number of nights stayed.
-Restaurant Bill Calculation: Calculates the bill for food items ordered by the customer.
+Restaurant Bill Calculation: Calculates the bill for food items the customer orders.
 Laundry Bill Calculation: Calculates the bill for laundry services.
 Game Bill Calculation: Calculates the bill for using game facilities.
 Total Cost Display: Displays the total cost including room rent, food bill, laundry bill, game bill, and additional service charges.
@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/hotel-management-system.git
+git clone https://github.com/iimVishu/hotel-management-system.git
 Navigate to the project directory:
 
 bash
